@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-kou-21.48-kourovka-notebook-problem-21.48-0394123e`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359149890`
+- Repository node ID: `R_kgDOUQL7Qg`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-kou-21.48-kourovka-notebook-problem-21.48-0394123e`
+- ProblemContract SHA-256: `b37a6ccf104bdc898aa2320957446beaaeb0b773e52810a164355daf60019f08`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `2dcd8663d30bd9a25bb23dae3b06f0020a79816aa6b561e69d8d8db6fc55045c`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
